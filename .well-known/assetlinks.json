@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.adilahmadimtiaz_svg.twa",
+      "sha256_cert_fingerprints": ["87:9F:49:00:B1:31:97:39:03:7C:12:EF:00:8E:A2:6F:35:EA:0D:65:4F:97:B5:CC:5A:CD:08:52:C9:6F:1E:52"]
+    }
+  }
+]
